@@ -2,7 +2,7 @@
 use to test the git
 
 
-测试上传功能
+add new things
 
 
 
